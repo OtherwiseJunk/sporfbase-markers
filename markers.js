@@ -104,6 +104,7 @@ var MAPCRAFTER_MARKERS = [
 				{ "pos" : [-3940, -1900, 64], "title" : "Prahrad"},
 				{ "pos" : [-3617, -1900, 64], "title" : "New Szczecin"},
 				{ "pos" : [-4227, -1849, 64], "title" : "Bernova"},
+				{ "pos" : [-2100, -1730, 64], "title" : "Yorck, Capital of the Imperial Concordat"},
 			],
 		},
 	},
@@ -143,7 +144,7 @@ var MAPCRAFTER_MARKERS = [
 					"color": "navy",
 					"fillColor": "#4169e1",
 					"fillOpacity": "0.3",
-					"title": "<a href='http://sporfbase.com/mediawiki/index.php/Atlantica'> Atlantica </a>"
+					"title": "<a href='http://sporfbase.com/mediawiki/index.php/Imperial_Concordat#Atlantica'> Atlantica, Province of the Imperial Concordat </a>"
 				},
 				{
 					"points": [
@@ -160,7 +161,7 @@ var MAPCRAFTER_MARKERS = [
 					"color": "#003153",
 					"fillColor": "#0080ff",
 					"fillOpacity": "0.3",
-					"title": "<a href='http://sporfbase.com/mediawiki/index.php/Kingdom_of_Westphalia'> Kingdom of Westphalia </a>"
+					"title": "<a href='http://sporfbase.com/mediawiki/index.php/Imperial_Concordat#Westphalia'> Kingdom of Westphalia, Province of the Imperial Concordat </a>"
 				},
 				{
 					"points" : [
